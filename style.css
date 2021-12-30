@@ -8,14 +8,14 @@
 
 h1 {
 color: azure;
-font-size: 50px;
+font-size: 60px;
 font-family: Arial, Helvetica, sans-serif;
 text-shadow: 2px 2px #000000;
 }
 
 .p_do_cabecalho {
 color: azure;
-font-size: 25px;
+font-size: 35px;
 text-shadow: 2px 2px #000000;
 }
 
@@ -32,13 +32,13 @@ box-shadow: 0px 5px #000000
 .post, .titulo_dados_contato{
 font-family: Arial, Helvetica, sans-serif;
 color: azure;
-font-size: 30px;
+font-size: 40px;
 text-shadow: 2px 2px #000000;
 
 }
 
 .titulo_dados_contato{
-font-size: 20px;
+font-size: 30px;
 margin: 10px;
 }
 
@@ -46,7 +46,7 @@ margin: 10px;
 padding: 5px;
 content: 5px;
 margin-top: 15px;
-font-size: 25px;
+font-size: 35px;
 text-align: auto;
 font-family: Arial, Helvetica, sans-serif;
 }
@@ -63,18 +63,20 @@ font-family: Arial, Helvetica, sans-serif;
   
 }
 
-.artigo_em_si{  
+.artigo_em_si{
+font-family: Arial, Helvetica, sans-serif;      
 padding: 10px;
 content: 10px;
 text-align: justify;
-font-size: 25px;
+font-size: 35px;
+line-height: 1.5
+
 }
 
 .botao_dados_para_contato {
-margin-bottom: 15px;
 background-color: #070707 ;
-padding: 10px;
-content: 10px;
+padding: 15px;
+content: 15px;
 text-align: center;
 border-color: black;
 border-width: 10px;
@@ -86,12 +88,11 @@ list-style: none;
 
 .class_da_ul li a {
 text-decoration: none; 
-font-size: 20px;  
+font-size: 30px;  
 font-family: Arial, Helvetica, sans-serif;
 color: azure;
-padding: 10px;
-content: 10px;
 text-shadow: 2px 2px #000000;
-margin-top: 5px;
 text-align: center;
+line-height: 1.5
 }
+
