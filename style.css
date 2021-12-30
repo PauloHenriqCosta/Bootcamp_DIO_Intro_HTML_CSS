@@ -1,0 +1,97 @@
+.cabecalho{
+    margin-top: 15px;
+    background-color: #40434E;
+    padding: 10px;
+    content: 10px;
+    text-align: center;
+}
+
+h1 {
+color: azure;
+font-size: 50px;
+font-family: Arial, Helvetica, sans-serif;
+text-shadow: 2px 2px #000000;
+}
+
+.p_do_cabecalho {
+color: azure;
+font-size: 25px;
+text-shadow: 2px 2px #000000;
+}
+
+
+.botao_post {
+background-color: #3e475a;
+margin-top: 5px;
+padding: 5px;
+content: 5px;
+text-align: center;
+box-shadow: 0px 5px #000000
+}
+
+.post, .titulo_dados_contato{
+font-family: Arial, Helvetica, sans-serif;
+color: azure;
+font-size: 30px;
+text-shadow: 2px 2px #000000;
+
+}
+
+.titulo_dados_contato{
+font-size: 20px;
+margin: 10px;
+}
+
+.tags_semanticas{
+padding: 5px;
+content: 5px;
+margin-top: 15px;
+font-size: 25px;
+text-align: auto;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagem_post{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    width: 50%;
+    padding: 5px;
+    content: 5px;
+  
+}
+
+.artigo_em_si{  
+padding: 10px;
+content: 10px;
+text-align: justify;
+font-size: 25px;
+}
+
+.botao_dados_para_contato {
+margin-bottom: 15px;
+background-color: #070707 ;
+padding: 10px;
+content: 10px;
+text-align: center;
+border-color: black;
+border-width: 10px;
+}
+
+.class_da_ul{
+list-style: none;
+}
+
+.class_da_ul li a {
+text-decoration: none; 
+font-size: 20px;  
+font-family: Arial, Helvetica, sans-serif;
+color: azure;
+padding: 10px;
+content: 10px;
+text-shadow: 2px 2px #000000;
+margin-top: 5px;
+text-align: center;
+}
